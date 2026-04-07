@@ -1,4 +1,4 @@
-Open Banking Insights — Fintech Analytics Project**
+Open Banking Insights — Fintech Analytics Project
 
 This project analyses synthetic open banking transaction data to extract meaningful financial insights. It demonstrates practical skills used in modern fintech products, including cashflow analysis, subscription tracking, spending categorisation, and anomaly detection.
 The goal is to showcase hands‑on fintech analytics, security awareness, and data‑driven product thinking.
